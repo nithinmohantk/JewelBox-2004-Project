@@ -1,0 +1,176 @@
+[Root]
+Most Recent Package=Jewel
+
+
+[Package|Jewel|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\NVB Project\JewelBox VB_bak\Package
+
+[Package|Jewel|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Jewel|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Jewel|Files Found]
+
+[Package|Jewel|Files Released]
+
+[Package|Jewel|Missing Dependency Information]
+C:\Program Files\Common Files\Crystal Decisions\1.0\Bin\SACommonControls.dll=
+G:\NVB Project\JewelBox VB\ActiveX\ActiveSkin3\ActiveSkin.ocx=
+G:\NVB Project\JewelBox VB\ActiveX\RegControl\RegCtl.ocx=
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=
+C:\Program Files\Common Files\Designer\MSCONDES.DLL=
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+
+[Package|Jewel|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSRDO20.DLL=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\MSDATGRD.OCX=
+C:\WINDOWS\system32\MSADODC.OCX=
+C:\WINDOWS\system32\comct332.ocx=
+C:\WINDOWS\system32\Mscomct2.OCX=
+C:\WINDOWS\system32\Mscomctl.ocx=
+C:\WINDOWS\system32\Tabctl32.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+C:\WINDOWS\system32\Msstdfmt.dll=
+
+[Package|Jewel|Files Added]
+G:\NVB Project\JewelBox VB_bak\ActiveX\ActiveSkin3\ActiveSkin.ini=
+
+[Package|Jewel|Files Removed]
+
+[Package|Jewel|Files In Project]
+G:\NVB Project\JewelBox VB_bak\JewelBox2004.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\system32\MSJET35.DLL=Yes
+C:\WINDOWS\system32\MSJTER35.DLL=Yes
+C:\WINDOWS\system32\MSJINT35.DLL=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\MSRD2X35.DLL=Yes
+C:\WINDOWS\system32\MSREPL35.DLL=Yes
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files\Common Files\Designer\MSCONDES.DLL=Yes
+C:\WINDOWS\system32\Msstdfmt.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=Yes
+C:\WINDOWS\system32\Tabctl32.ocx=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\Mscomct2.OCX=Yes
+C:\WINDOWS\system32\comct332.ocx=Yes
+G:\NVB Project\JewelBox VB\ActiveX\RegControl\RegCtl.ocx=Yes
+G:\NVB Project\JewelBox VB\ActiveX\ActiveSkin3\ActiveSkin.ocx=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\Program Files\Common Files\Crystal Decisions\1.0\Bin\SACommonControls.dll=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\NVB Project\JewelBox VB_bak\ActiveX\ActiveSkin3\ActiveSkin.ini=Yes
+
+[Package|Jewel|Configure Registry Files]
+Applicable=No
+
+[Package|Jewel|Configure Remote Servers]
+Applicable=No
+
+[Package|Jewel|Install Locations]
+G:\NVB Project\JewelBox VB_bak\JewelBox2004.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSCONDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\Common\Tools\APE\REGTOOL5.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Mscomct2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comct332.ocx=$(WinSysPath)
+G:\NVB Project\JewelBox VB\ActiveX\RegControl\RegCtl.ocx=$(WinSysPath)
+G:\NVB Project\JewelBox VB\ActiveX\ActiveSkin3\ActiveSkin.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Crystal Decisions\1.0\Bin\SACommonControls.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(WinPath)
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\Development\Microsoft\Visual Studio 6.0\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\NVB Project\JewelBox VB_bak\ActiveX\ActiveSkin3\ActiveSkin.ini=$(WinPath)
+
+[Package|Jewel|Configure Shared Files]
+Applicable=Yes
+G:\NVB Project\JewelBox VB_bak\JewelBox2004.exe=Yes
+
+[Package|Jewel|Distribution]
+Type=single
+Size=1.44 MB
+Title=Jewel Box 2004 v0.99 beta1
+
+[Package|Jewel|IconGroups]
+Group0=Jewel Box 2004 v0.99 beta1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Jewel|Jewel Box 2004 v0.99 beta1]
+Icon1=JewelBox2004.exe
+Title1=Jewel Box 2004 v0.99 beta1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Jewel|Package]
+PackageFolder=G:\NVB Project\JewelBox VB_bak\Package
+ProjectFolder=G:\NVB Project\JewelBox VB_bak
+ServerSideCab=
+File1=G:\NVB Project\JewelBox VB_bak\Package\setup.exe
+File2=G:\NVB Project\JewelBox VB_bak\Package\Setup.Lst
+File3=G:\NVB Project\JewelBox VB_bak\Package\JewelBox2004.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

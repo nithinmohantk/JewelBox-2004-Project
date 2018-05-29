@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Root>
+   <Info Author="Foood&apos;s Icons" Email="foood@foood.net" Website="http://www.foood.net" Comments="XP iCandy icons from Foood"/>
+   <Icons>
+      <AdministrativeTools Icon="Windows Folder.ico"/>
+      <AudioCD Icon="music.ico"/>
+      <CDROMDrive Icon="cd drive.ico"/>
+      <ClosedFolder Icon="Closed Folder.ico,0"/>
+      <ConfigurationSettings Icon="Documents &amp; Settings Folder.ico"/>
+      <ControlPanel Icon="Control Panel.ico,0"/>
+      <DefaultDocument Icon="Document blank.ico"/>
+      <Desktop Icon="Desktop.ico"/>
+      <DialUpNetworking Icon="Modem.ico,0"/>
+      <Explorer Icon="Internet Explorer.ico,0"/>
+      <Email Icon="email.ico,0"/>
+      <EntireNetwork Icon="Globe 1.ico"/>
+      <Favorites Icon="Favourites.ico"/>
+      <Find Icon="Windows Explorer.ico,0"/>
+      <FloppyDrive35 Icon="Floppy drive.ico"/>
+      <FloppyDrive525 Icon="Floppy.ico"/>
+      <HardDrive Icon="Hard drive blue.ico,0"/>
+      <Help Icon="Help.ico,0"/>
+      <MovieClip Icon="Video.ico"/>
+      <MyComputer Icon="My computer.ico"/>
+      <MyDocuments Icon="My Documents.ico,0"/>
+      <MyMusic Icon="My Music.ico,0"/>
+      <MyPictures Icon="My Pictures.ico,0"/>
+      <MyRecentDocuments Icon="Recent Documents.ico"/>
+      <NetworkPlaces Icon="Network.ico,0"/>
+      <NetworkService Icon="Internet Connections 1.ico"/>
+      <OpenFolder Icon="Open Folder.ico,0"/>
+      <Printers Icon="Printer.ico,0"/>
+      <ProgramGroup Icon="Program Files Folder.ico,0"/>
+      <TheInternet Icon="Globe.ico"/>
+      <RecycleBinempty Icon="Recycle Bin Empty.ico,0"/>
+      <RecycleBinfull Icon="Recycle Bin Full.ico,0"/>
+      <Run Icon="Run.ico,0"/>
+      <ScheduledTasks Icon="Clock.ico"/>
+      <SharedMusic Icon="My Music3.ico,0"/>
+      <SharedPictures Icon="My Pictures4.ico,0"/>
+      <ShortcutOverlay Icon="Shortcut Arrow.ico"/>
+      <TextDocument Icon="Document.ico"/>
+   </Icons>
+</Root>
